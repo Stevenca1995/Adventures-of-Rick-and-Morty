@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.status {
+     border: 2px solid #8EFF8B;
+     background: rgba(2, 10, 2, 0.80);
+}
